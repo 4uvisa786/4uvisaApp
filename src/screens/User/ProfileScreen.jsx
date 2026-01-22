@@ -336,7 +336,7 @@ export default function ProfileScreen({ navigation }) {
 
 
                         <TouchableOpacity
-                            onPress={() => openLink('https://fouruvisa.onrender.com/terms-and-conditions')}
+                            onPress={() => openLink('https://fouruvisa.onrender.com/privacy-policy')}
                             style={styles.actionRow}
                         >
                             <View style={styles.actionLeft}>
